@@ -1,0 +1,80 @@
+@media(max-width:1100px) 
+{
+    body{
+        text-align: center;
+    }
+
+    .header {
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header img {
+        height: 80px;
+    }
+
+    .caixa-mae {
+        flex-direction: column;
+        justify-content:center;
+        gap: 60px;
+        padding: -2em;        
+    }
+
+    .caixa-principal {
+        display: flex;
+        width: 70%;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .hamburguer {
+        width: 400px;
+        height: auto;
+    }
+
+}
+
+@media(max-width:400px) 
+{
+    p {
+        display: none;
+    }
+
+    .caixa-mae {
+        flex-direction: column;
+        gap: 10px;
+        padding: -2em;        
+    }
+
+    .caixa-principal {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .hamburguer {
+        width: 200px;
+        height: auto;
+    }
+
+    .header {
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header a{
+        font-size: 17px;
+    }
+
+    .header a:hover{
+        font-size: 19px;
+    }
+
+    .header img {
+        height: 50px;
+    }
+}

@@ -9,4 +9,10 @@ Então nesse projeto eu consegui <b>Estudar, Aprender, Aplicar</b> e o mais impo
     <li><img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></li>
     <li><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></li>
     <li><img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></li>
-</ul>
+</ul><br>
+
+
+<h3>Confira o resultado...</h3>
+<br>
+
+<img src="img/ph.png">
