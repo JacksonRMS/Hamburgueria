@@ -12,7 +12,7 @@ Então nesse projeto eu consegui <b>Estudar, Aprender, Aplicar</b> e o mais impo
 </ul><br>
 
 
-<h3>Confira o resultado...</h3>
+<h3>Confira o resultado acessando <a href="https://amarantes-hamburgueria.netlify.app/">Amarante's Hamburgueria</a> </h3>
 <br>
 
 <img src="img/ph.png">
