@@ -1,4 +1,4 @@
-@media(max-width:1100px) 
+@media screen and (max-width:1200px) and (orientation:portrait)
 {
     body{
         text-align: center;
@@ -18,8 +18,13 @@
     .caixa-mae {
         flex-direction: column;
         justify-content:center;
+        text-align: center;
         gap: 60px;
         padding: -2em;        
+    }
+
+    h1{
+        text-align: center;
     }
 
     .caixa-principal {
@@ -36,28 +41,8 @@
 
 }
 
-@media(max-width:400px) 
+@media screen and (max-width:450px) and (orientation:portrait)
 {
-    p {
-        display: none;
-    }
-
-    .caixa-mae {
-        flex-direction: column;
-        gap: 10px;
-        padding: -2em;        
-    }
-
-    .caixa-principal {
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-    }
-
-    .hamburguer {
-        width: 200px;
-        height: auto;
-    }
 
     .header {
         margin: 10px;
@@ -77,4 +62,27 @@
     .header img {
         height: 50px;
     }
+
+    p {
+        display: none;
+    }
+
+    .caixa-mae {
+        flex-direction: column;
+        gap: 10px;
+        padding: -2em;        
+    }
+
+    .caixa-principal {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .hamburguer {
+        width: 200px;
+        height: auto;
+        margin-top: 20px;
+    }
+
 }
